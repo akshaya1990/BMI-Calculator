@@ -23,4 +23,4 @@ Steps:
 
 9. From the terminal start the server using nodemon command -> ex: nodemon calculator.js
 
-10.Open any browser and go to http://localhost:3000/ and it should display "Hello World" . Go to http://localhost:3000/bmiCalculator and enter your height and weight to calculate the BMI.
+10.If you are running this project locally --> Open any browser and go to http://localhost:3000/ and it should display "Hello World" . Go to http://localhost:3000/bmiCalculator and enter your height and weight to calculate the BMI.
