@@ -20,3 +20,7 @@ Steps:
 7. Inside server.js , create 2 variables, one for weight and one for height. 
 
 8. Use the BMI calculator code you wrote previously, or write some new code to calculate and send back the result as text. It should read something like "Your BMI is n" where n is equal to the calculated BMI based on their weight and height inputs.
+
+9. From the terminal start the server using nodemon command -> ex: nodemon calculator.js
+
+10.Open any browser and go to http://localhost:3000/ and it should display "Hello World" . Go to http://localhost:3000/bmiCalculator and enter your height and weight to calculate the BMI.
